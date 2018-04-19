@@ -1,0 +1,87 @@
+#wrapper{
+    width: 970px;
+    background-color: #1b335d;
+    height: 420px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 6px;
+}
+#header{
+    height: 60px;
+    background-color: #cf2f36;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 930px; 
+    color: white;
+    line-height: 63px;
+    padding-right: 25px;
+    border-radius: 18px;
+    padding-left: 1px; 
+}
+#turtle{
+    height: 150px;
+    width: 165px;
+    background-color: #2a7d8c;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 10px;
+    color: white;
+    text-decoration: underline;
+    border-radius: 18px;
+    margin-left: 15px;
+    margin-right: auto;
+}
+#header_title{
+    font-size: 19px;
+    margin-left: 10px;
+}
+.list{
+margin-left: 16px;
+list-style-type: circle;
+}
+.firstList{
+margin-left: 6px;
+}
+#bigBox{
+display: inline-block;
+height: 275px;
+width: 770px;
+background-color:#0e1822;
+vertical-align: top;
+border-radius: 18px;
+margin-left: 6px; 
+margin-top: 10px;
+}
+#header2{
+color: white;
+margin-left: 8px;
+margin-bottom: 0px;
+margin-top: 8px;
+}
+#firstParagraph{
+    color: white;
+    margin-left: 8px;
+    font-size: 9px;
+    display: inline-block;
+
+    }
+.babyBlue{
+    color: rgb(37, 210, 233);
+    text-decoration: underline;
+    display: inline-block;
+    }
+#lastBox{
+    height: 50px;
+    width: 600px;
+    background: grey;
+    border-radius: 13px;
+    padding-right: 168px;
+    
+    
+}
+#finisher{
+    
+color: white;
+margin-left: 17px;
+}
